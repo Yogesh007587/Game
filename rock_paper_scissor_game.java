@@ -18,7 +18,7 @@ public class rock_paper_scissor_game {
 
             if (c == cc) {
                 System.out.println("Tie.!");
-            } else if (c == 0 && cc == 2) {
+            } else if (c == 0 && cc == 1) {
                 System.out.println("Computer won the match.");
             } else if (c == 0 && cc == 2) {
                 System.out.println("Hurrah.! You won the match.");
